@@ -25,7 +25,7 @@
 NeoFocus is a next-generation productivity platform that transforms traditional study timers into a **living pixel-art ecosystem**. Rather than functioning as a standard Pomodoro dashboard, NeoFocus creates an immersive study universe where pixel companions react to focus sessions, environments evolve dynamically, and productivity becomes emotionally engaging — like progression inside a cozy RPG world.
 
 > **Core Principle:** *Studying should feel immersive, rewarding, emotionally engaging, and alive.*
-
+![Focus Dashboard](https://raw.githubusercontent.com/dctbao09x/NeoFocus-for-Studying-v1/025075c159756cc0025d2dba34516c52bb7a112c/Focus%20Dashboard.png)
 ---
 
 ## Table of Contents
