@@ -26,6 +26,7 @@ NeoFocus is a next-generation productivity platform that transforms traditional 
 
 > **Core Principle:** *Studying should feel immersive, rewarding, emotionally engaging, and alive.*
 ![Focus Dashboard](https://raw.githubusercontent.com/dctbao09x/NeoFocus-for-Studying-v1/025075c159756cc0025d2dba34516c52bb7a112c/Focus%20Dashboard.png)
+Link: https://neo-focus-for-studying-v1.vercel.app/
 ---
 
 ## Table of Contents
