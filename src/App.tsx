@@ -31,7 +31,7 @@ function AnimatedRoutes() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/NeoFocus-for-Studying-v1/">
       <TimerService />
       <AnimatedRoutes />
     </BrowserRouter>
