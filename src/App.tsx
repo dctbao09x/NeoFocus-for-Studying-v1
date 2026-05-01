@@ -30,10 +30,13 @@ function AnimatedRoutes() {
 }
 
 export default function App() {
+  const basename = import.meta.env.MODE === 'production' 
+    ? '/NeoFocus-for-Studying-v1/' 
+    : '/';
+    
   return (
-    <BrowserRouter basename="/NeoFocus-for-Studying-v1/">
+    <BrowserRouter basename={basename}>
       <TimerService />
       <AnimatedRoutes />
     </BrowserRouter>
   );
-}
